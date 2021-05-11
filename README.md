@@ -10,3 +10,9 @@ My name is Levi Liberman Júnior, I am 18 years old and I started studying Compu
   : A simple personal financial control app, developed in [Rockseat's](https://rocketseat.com.br/) "Maratona Discover" 1st edition with personal changes in styling and formatting classes. You can you can view in https://github.com/LeviLJR/dev.finance .
 - Calc Levi
   : A calculator with simple design and light and dark mode in development.
+  
+<br>
+  
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=leviLJR&show_icons=true" alt="leviLJR"/>
+</p>
