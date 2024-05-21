@@ -1,9 +1,9 @@
 <h1> Hi there 👋 </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leviLJR" alt="leviLJR" /> </p>
 
-My name is Levi Liberman Júnior, I am 21 years old and I am studying Computer Engineering at UTFPR - campus Cornélio Procópio, I like to challenge myself to learn something new every day, being open to new challenges!
+I am a student in the 7th period of computer engineering at the Federal Technological University of Paraná (UTFPR). I have experience in programming in SQL, C, Java, HTML, CSS, JavaScript, as well as advanced knowledge of English. I like to challenge myself to learn something new every day, being open to new challenges and looking for my first work experience in the programming area.
 
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT
+- 🌱 I’m currently learning React
 
 <h2> Projects</h2>
 
