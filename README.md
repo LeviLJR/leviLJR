@@ -15,6 +15,3 @@ I am a student in the 7th period of computer engineering at the Federal Technolo
   
 <br>
   
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=leviLJR&show_icons=true" alt="leviLJR"/>
-</p>
