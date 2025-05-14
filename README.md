@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is **Levi, a Computer Engineering student and a web development trainee at CAIO EVANGELISTA TECNOLOGIA aspiring to be a **Full Stack Developer** 🚀  
+My name is **Levi**, a Computer Engineering student and a web development trainee at CAIO EVANGELISTA TECNOLOGIA aspiring to be a **Full Stack Developer**.  
 
 📌 Currently based in Jacksonville, FL 🇺🇸 and originally from Brazil 🇧🇷, I’m passionate about building cool stuff using **React**, **Next.js**, **Prisma**, **Node.js**, and exploring **Python** for data-oriented projects.
 
@@ -10,8 +10,7 @@ My name is **Levi, a Computer Engineering student and a web development trainee 
 
 ---
 
-### 🌐 &nbsp;[Check out my portfolio](https://leviljr.github.io) *(or GitHub repos below)*  
-### 📄 &nbsp;[Download my Resume](https://github.com/LeviLJR)
+### 🌐 &nbsp;[Check out my portfolio](https://leviljr.github.io) *(or GitHub repos below)* 
 
 ---
 
@@ -54,27 +53,26 @@ My name is **Levi, a Computer Engineering student and a web development trainee 
 
 | Project | Description | Demo |
 |--------|-------------|------|
-| [Secret Number](https://github.com/LeviLJR/secret-number) | 🎤 Game using **voice recognition** and **translation** | [Live Demo](https://secret-number-levi.vercel.app/) |
-| [PokeAPI Middleware](https://github.com/LeviLJR/pokeapi-middleware) | ⚙️ Full-stack Pokémon search app with React & Node | - |
-| [CALCLEVI](https://github.com/LeviLJR/calclevi) | 🧮 Simple calculator with **theme toggle** | [Live Demo](https://calclevi.vercel.app/) |
-| [uTask 3.0](https://github.com/LeviLJR/UTask) | ✅ Task manager with dark mode | [Live Demo](https://you-task.vercel.app/) |
-| [AluraBooks](https://github.com/LeviLJR/AluraBooks) | 📚 Responsive book platform using **Swiper.js** | [Live Demo](https://alurabooks-levi.vercel.app/) |
-| [Fokus](https://github.com/LeviLJR/Fokus) | ⏱️ Pomodoro-style focus timer | [Live Demo](https://fokus-levi.vercel.app/) |
+| [Secret Number](https://github.com/LeviLJR/secret-number) | Game using **voice recognition** and **translation** | [Live Demo](https://secret-number-levi.vercel.app/) |
+| [PokeAPI Middleware](https://github.com/LeviLJR/pokeapi-middleware) | Middleware Pokémon search app with React & Node | - |
+| [CALCLEVI](https://github.com/LeviLJR/calclevi) | Simple calculator with **theme toggle** | [Live Demo](https://calclevi.vercel.app/) |
+| [uTask 3.0](https://github.com/LeviLJR/UTask) | Task manager with dark mode | [Live Demo](https://you-task.vercel.app/) |
+| [AluraBooks](https://github.com/LeviLJR/AluraBooks) | Responsive book platform using **Swiper.js** | [Live Demo](https://alurabooks-levi.vercel.app/) |
+| [Fokus](https://github.com/LeviLJR/Fokus) | Pomodoro-style focus timer | [Live Demo](https://fokus-levi.vercel.app/) |
 
 ---
 
 ### 🧠 Currently Learning
-- 🏗️ Advanced **React** patterns
-- 🧩 **Next.js** and server-side rendering
-- 🌐 Full-stack with **Prisma + Node**
-- 📊 **Python** for data science and backend automation
+-  **React** patterns
+-  **Next.js** and server-side rendering
+-  **Python** for data science and backend automation
 
 ---
 
 ### 📫 How to reach me:
-- 📧 Email: levilibermanjunior@gmail.com  
-- 💼 [LinkedIn](https://linkedin.com/in/leviljr)  
-- 💻 [GitHub](https://github.com/LeviLJR)
+- Email: levilibermanjunior@gmail.com  
+- [LinkedIn](https://linkedin.com/in/leviljr)  
+- [GitHub](https://github.com/LeviLJR)
 
 ---
 
